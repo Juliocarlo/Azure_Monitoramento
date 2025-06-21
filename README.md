@@ -27,12 +27,15 @@ Componentes Principais
 | Change Analysis      | Histórico de alterações em recursos                          | 
 
 
+
 Novidades e Atualizações Recentes
+
 - Unified Data Collection Rules (DCR): coleta de dados centralizada e mais eficiente.
 - Managed Prometheus + Grafana: suporte nativo para workloads Kubernetes.
 - Alertas dimensionáveis: alertas mais rápidos e com menor latência.
 - Nova experiência de Workbooks: mais responsiva e com suporte a GitHub.
 - Monitoramento multicloud: suporte a AWS e GCP via Azure Arc.
+- 
 
  Exemplo de Configuração: Monitorar uma VM Linux
  
