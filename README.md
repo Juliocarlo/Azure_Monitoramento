@@ -35,6 +35,7 @@ Novidades e Atualizações Recentes
 - Monitoramento multicloud: suporte a AWS e GCP via Azure Arc.
 
  Exemplo de Configuração: Monitorar uma VM Linux
+ 
 1 Criar um Log Analytics Workspace:
 
 az monitor log-analytics workspace create \
