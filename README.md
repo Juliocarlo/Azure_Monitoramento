@@ -2,6 +2,7 @@
 Informações sobre o monitoramento no Azure 
 
 O que é o Azure Monitor?
+
 O Azure Monitor é a plataforma de observabilidade nativa da Microsoft para monitorar a integridade, 
 desempenho e disponibilidade de recursos no Azure, ambientes híbridos e multicloud. 
 Ele coleta, analisa e visualiza métricas, logs, telemetria de aplicativos e eventos de rede.
